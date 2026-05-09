@@ -1,4 +1,4 @@
-# Web application for renting housing
+# What are you doing here? This is a test repository, but I will never make it private.
 This project is aimed at those looking for new housing.
 |Characteristic  |Positive                       |Negative                     |
 |----------------|-------------------------------|-----------------------------|
